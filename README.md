@@ -16,5 +16,6 @@ LDR images corresponding to 7 different exposures (EV-3 to +3) and HDR files wer
 - Exposure time: 1/200s  
 - ISO sensitivity: ISO-100  
 
-![vds-seoul-overview](https://github.com/yyeinn/VDS-SEOUL-dataset/assets/98625250/ffb82caa-0e07-4f25-a2ab-9cb3c3a0b2ee)  
+![vds-seoul-overview](https://github.com/yyeinn/VDS-SEOUL-dataset/assets/98625250/4a2f60eb-8413-4fec-b9f6-07baf330bba4)
+
 
